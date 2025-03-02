@@ -21,8 +21,8 @@
 
 - <b>Web Development</b>
   - []()
-- <b> <!-- Full Stack Web App (React, NodeJS, Azure, and )</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
+- <b> Full Stack Web App (React, NodeJS, Azure, and )</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   -  
 
