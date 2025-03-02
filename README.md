@@ -1,4 +1,5 @@
-<h1>Hi, I'm Nicole! <br/><a href="https://github.com/Nicole732"> Cloud Engineer passionate about Cloud Security, Cybersecurity, DevOps and DevSecOps</a>
+<h1>Hi, I'm Nicole! <br/><a href="https://github.com/Nicole732"> Cloud Engineer passionate about Cloud Security, Cybersecurity, DevOps and DevSecOps</a>https://www.linkedin.com/in/nicoledk/
+
 <h2>👨‍💻Cloud Security Projects:</h2>
 - <b>AWS</b>
   - [Configure SSO Integration for Users within an AWS Organization]() 
