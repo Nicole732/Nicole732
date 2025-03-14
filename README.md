@@ -27,7 +27,10 @@
 
 <h2>👨‍💻Software Development Projects:</h2>
 
-- 
+- [Build a portfolio with  Bootstrap, HTML, CSS and JS](https://github.com/Nicole732/portfolio2023)
+- [Full Stack React App: Task-Attack](https://github.com/Nicole732/Task-Attack)
+- [Python PayRoll App](https://github.com/Nicole732/pythonpayroll)
+- [JS WeatherDashboard](https://github.com/Nicole732/WeatherDashboard)
 
 
 <h2> 🤳 Connect with me:</h2>
