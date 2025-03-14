@@ -11,6 +11,8 @@
   
 <h2>👨‍💻Cybersecurity:</h2>
 
+- [CIS Benchmarks Hardening on Windows Computer](https://github.com/Nicole732/cisbenchmarksca-windows)
+
 
 <h2>👨‍💻DevOps/DevSecOps Projects:</h2>
 
