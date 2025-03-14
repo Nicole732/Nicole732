@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicole! <br/><a href="https://github.com/Nicole732"> Cloud Security Engineer </a>passionate about Cloud Computing, Cybersecurity, and DevSecOps.</h1>
+<h1>Hi, I'm Nicole! <br/><a href="https://github.com/Nicole732"> Cloud Security Engineer </a>passionate about Cloud Computing, Cybersecurity, DevOps and DevSecOps.</h1>
 
  
 <!-- <h2>👨‍💻Cloud Security Projects:</h2>
