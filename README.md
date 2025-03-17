@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicole! <br/>Cloud / Cybersecurity Security Engineer </br>passionate about Cloud Computing, Cybersecurity, DevOps and DevSecOps.</h1>
+<h1>Hi, I'm Nicole! <br/>Cloud & Cybersecurity Security Engineer </br>passionate about Cloud Computing, Cybersecurity, DevOps and DevSecOps.</h1>
 
  
 <!-- <h2>👨‍💻Cloud Security Projects:</h2>
