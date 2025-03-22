@@ -7,13 +7,13 @@
   - [Configure SSO Integration for Users within an AWS Organization]() 
 - <b>Azure</b>
   - []()
+  - [CIS Benchmarks Hardening on Windows Computer](https://github.com/Nicole732/cisbenchmarksca-windows)
+  -->
+<h2>👨‍💻PowerShell:</h2>
 
-  
-<h2>👨‍💻Cybersecurity:</h2>
+- [Verify the hash of a file and compare with published hash](https://github.com/Nicole732/powershell/blob/main/verifyChecksum.ps1)
 
-- [CIS Benchmarks Hardening on Windows Computer](https://github.com/Nicole732/cisbenchmarksca-windows)
 
--->
 <h2>👨‍💻DevOps/DevSecOps Projects:</h2>
 
 -  [Configure Automated Secrets Scanning, SAST, SCA and DAST Scan in GitLab CI/CD Pipeline](https://github.com/Nicole732/devsecops-sast-dast-gitlab-cicd)
