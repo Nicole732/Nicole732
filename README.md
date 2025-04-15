@@ -16,7 +16,7 @@
 
 <h2>👨‍💻DevOps/DevSecOps Projects:</h2>
 
--  [Configure Automated Secrets Scanning, SAST, SCA and DAST Scan in GitLab CI/CD Pipeline](https://github.com/Nicole732/devsecops-sast-dast-gitlab-cicd)
+-  [Configure Automated Secrets Scanning, SAST, SCA and DAST Scans in GitLab CI/CD Pipeline](https://github.com/Nicole732/devsecops-sast-dast-gitlab-cicd)
 -  [DevSecOps: Vulnerable Application- OWASP Juice Shop - Scanning with Giltlab](https://github.com/Nicole732/devsecops-sast-cicd-gitlab)
 -  [Infrastructure Deployment with Github Actions CI/CD Pipeline](https://github.com/Nicole732/iac-devsecops-githubactions/tree/main)
 -  [Scan Docker Images using Trivy with GitLab CI/CD Pipeline](https://github.com/Nicole732/docker-image-scan-gitlabcicd)
