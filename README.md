@@ -2,9 +2,10 @@
 
  
  <h2>👨‍💻Cloud Security Projects:</h2>
+ 
  - [Automate CIS AWS Foundations Benchmark level 1 using Terraform, GitHub Actionsand DevSecOps](https://github.com/Nicole732/aws-cis-level1-automation)
 
-- <b>AWS</b>
+<!--- <b>AWS</b>
   - [Configure SSO Integration for Users within an AWS Organization]() 
 - <b>Azure</b>
   - []()
