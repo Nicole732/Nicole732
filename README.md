@@ -1,7 +1,8 @@
 <h1>Hi, I'm Nicole! <br/>Cloud & Cybersecurity Security Engineer </br>passionate about Cloud Computing, Cybersecurity, DevOps and DevSecOps.</h1>
 
  
-<!-- <h2>👨‍💻Cloud Security Projects:</h2>
+ <h2>👨‍💻Cloud Security Projects:</h2>
+ - [Automate CIS AWS Foundations Benchmark level 1 using Terraform, GitHub Actionsand DevSecOps](https://github.com/Nicole732/aws-cis-level1-automation)
 
 - <b>AWS</b>
   - [Configure SSO Integration for Users within an AWS Organization]() 
