@@ -2,7 +2,7 @@
 
  <h2>👨‍💻Kubernetes</h2>
 
- - [Provision an EKS Cluster with Terraform](https://github.com/Nicole732/infra-eks-terraform-automation)
+ - [Provision an EKS Cluster with Terraform, and configure RBAC](https://github.com/Nicole732/infra-eks-terraform-automation)
  
  <h2>👨‍💻Cloud Security Projects:</h2>
  
