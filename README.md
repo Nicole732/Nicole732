@@ -1,5 +1,8 @@
-<h1>Hi, I'm Nicole! <br/>Cloud & Cybersecurity Security Engineer </br>passionate about Cloud Computing, Cybersecurity, DevOps and DevSecOps.</h1>
+<h1>Hi, I'm Nicole! <br/>Cloud & Cybersecurity Security Engineer </br>passionate about Cloud Computing, Cybersecurity, DevOps, and DevSecOps.</h1>
 
+ <h2>👨‍💻Kubernetes</h2>
+
+ - [Provision an EKS Cluster with Terraform](https://github.com/Nicole732/infra-eks-terraform-automation)
  
  <h2>👨‍💻Cloud Security Projects:</h2>
  
