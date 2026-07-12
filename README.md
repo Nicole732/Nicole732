@@ -17,7 +17,7 @@
   -->
 <h2>👨‍💻Information Security:</h2>
 
-- Automated S3 Event-Driven File Mover / Quarantine — S3 + AWS Lambda + Terraform
+- Automated S3 Event-Driven File Mover / Quarantine — S3 + AWS Lambda + Terraform(https://github.com/Nicole732/deploy-lambda-s3-terraform)
 
 <h2>👨‍💻PowerShell:</h2>
 
