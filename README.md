@@ -15,6 +15,10 @@
   - []()
   - [CIS Benchmarks Hardening on Windows Computer](https://github.com/Nicole732/cisbenchmarksca-windows)
   -->
+<h2>👨‍💻Information Security:</h2>
+
+- Automated S3 Event-Driven File Mover / Quarantine — S3 + AWS Lambda + Terraform
+
 <h2>👨‍💻PowerShell:</h2>
 
 - [Verify the hash of a file and compare with published hash](https://github.com/Nicole732/powershell/blob/main/verifyChecksum.ps1)
